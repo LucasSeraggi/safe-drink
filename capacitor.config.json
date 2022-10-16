@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "SafeDrink",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

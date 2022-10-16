@@ -1,0 +1,8 @@
+{
+  "name": "SafeDrink",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "4d958a77"
+}
